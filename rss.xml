@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[drone]]></title>
         <description><![CDATA[drone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 01:43:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 01:46:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e8401e2-9576-4d0a-859f-083cf59c5cf3.jpg">]]></description>
+            <link>https://thegrid.ai/drone/test/index.html</link>
             <guid isPermaLink="false">7b93b605-7494-421a-80c4-748f6d490cde</guid>
-            <pubDate>Thu, 28 Jul 2016 01:43:49 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 01:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
